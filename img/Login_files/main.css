@@ -1,0 +1,21 @@
+
+.form-signin img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 5px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    text-align: center;
+}
+
+.sign-in-container{
+    padding: 15px;
+}
+.form-control {
+    width: 400px;
+}
